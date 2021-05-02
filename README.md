@@ -1,5 +1,6 @@
 # HUGE
-HUGE (Highly Unoptimized Game Engine)
+HUGE (Highly Unoptimized Game Engine)  
+Basically wanted to build some game, but ended up doing some weird pseudo game engine, which i don't want to continue developing  
 
 # Install
 Create "Include" folder and add boost, box2d, GL, GLFW, glm includes
